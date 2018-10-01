@@ -3,6 +3,15 @@ Ministocks [![Build Status](https://img.shields.io/travis/niteshpatel/ministocks
 
 Minimum version for new features is Android 4.1.x (minSdkVersion=16) 
 
+Extended the Widget by adding more features to it such as: 
+
+- Increased the number of default stocks that can be displayed
+- Allowed the widget to be resizable
+- Added Cryptocurrency stocks
+- Added RSS feeds for all available stocks
+- Added weekly, monthly and yearly graphs for all available stocks
+- Added export and import user portfolio
+
 Download
 --------
 <a href="https://f-droid.org/packages/nitezh.ministock" target="_blank">
